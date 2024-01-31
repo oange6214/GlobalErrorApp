@@ -1,0 +1,6 @@
+@GlobalErrorApp_HostAddress = http://localhost:5267
+
+GET {{GlobalErrorApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
